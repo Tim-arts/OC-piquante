@@ -1,4 +1,4 @@
-# p6_piquante
+# p6-piquante
 
 Dans un premier temps : npm i         </br>
 Puis depuis le front (pour lancer le ng serve) : npm run start </br>
